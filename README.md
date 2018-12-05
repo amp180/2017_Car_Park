@@ -9,4 +9,4 @@ Concurrent & Distributed Programming module.
 
 # To Execute:
 `javac ./*.java`
-'`java Main`
+`java Main`
